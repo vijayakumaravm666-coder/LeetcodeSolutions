@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0125-valid-palindrome](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0125-valid-palindrome) |
 ## Enumeration
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0125-valid-palindrome) |
 ## Simulation
 |  |
 | ------- |
