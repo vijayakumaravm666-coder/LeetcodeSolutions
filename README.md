@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0283-move-zeroes) |
 ## Enumeration
 |  |
 | ------- |
