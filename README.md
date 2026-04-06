@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/1732-find-the-highest-altitude) |
+| [1920-build-array-from-permutation](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/1920-build-array-from-permutation) |
 ## Two Pointers
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0043-multiply-strings) |
+| [1920-build-array-from-permutation](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/1920-build-array-from-permutation) |
 ## Hash Table
 |  |
 | ------- |
