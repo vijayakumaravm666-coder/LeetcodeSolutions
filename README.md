@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0043-multiply-strings) |
 | [0204-count-primes](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0204-count-primes) |
 ## Array
 |  |
@@ -24,4 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0204-count-primes) |
+## String
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0043-multiply-strings) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
