@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0066-plus-one) |
 | [0171-excel-sheet-column-number](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0171-excel-sheet-column-number) |
 | [0204-count-primes](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0231-power-of-two) |
 ## Array
 |  |
 | ------- |
@@ -86,4 +87,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
