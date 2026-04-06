@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0268-missing-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Array
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0561-array-partition) |
 | [0977-squares-of-a-sorted-array](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Two Pointers
 |  |
 | ------- |
