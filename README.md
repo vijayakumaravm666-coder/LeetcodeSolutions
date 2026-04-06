@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0066-plus-one) |
+| [0171-excel-sheet-column-number](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0171-excel-sheet-column-number) |
 | [0204-count-primes](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0204-count-primes) |
 ## Array
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0125-valid-palindrome) |
+| [0171-excel-sheet-column-number](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0171-excel-sheet-column-number) |
 ## Simulation
 |  |
 | ------- |
