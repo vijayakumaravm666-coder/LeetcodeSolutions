@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0561-array-partition) |
+| [0977-squares-of-a-sorted-array](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Enumeration
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0561-array-partition) |
+| [0977-squares-of-a-sorted-array](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
