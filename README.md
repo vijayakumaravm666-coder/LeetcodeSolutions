@@ -6,12 +6,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0009-palindrome-number) |
+| [0204-count-primes](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0204-count-primes) |
 ## Array
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0204-count-primes](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0204-count-primes) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
