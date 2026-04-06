@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0268-missing-number) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Array
 |  |
 | ------- |
