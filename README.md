@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0049-group-anagrams](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0049-group-anagrams) |
 | [0204-count-primes](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0204-count-primes) |
 ## Two Pointers
 |  |
@@ -29,8 +30,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0049-group-anagrams) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0043-multiply-strings) |
+## Hash Table
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0049-group-anagrams) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
