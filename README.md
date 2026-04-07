@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0066-plus-one) |
 | [0171-excel-sheet-column-number](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0171-excel-sheet-column-number) |
+| [0189-rotate-array](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0268-missing-number) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0268-missing-number) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0349-intersection-of-two-arrays) |
