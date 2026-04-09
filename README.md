@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0383-ransom-note) |
+| [0796-rotate-string](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0796-rotate-string) |
 ## Simulation
 |  |
 | ------- |
@@ -152,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/1732-find-the-highest-altitude) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
