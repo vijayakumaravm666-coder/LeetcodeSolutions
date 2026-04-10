@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0561-array-partition) |
+| [0705-design-hashset](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0705-design-hashset) |
 | [0977-squares-of-a-sorted-array](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/1480-running-sum-of-1d-array) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0383-ransom-note) |
+| [0705-design-hashset](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0705-design-hashset) |
 ## Sorting
 |  |
 | ------- |
@@ -159,4 +161,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0796-rotate-string) |
+## Linked List
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0705-design-hashset) |
+## Design
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
