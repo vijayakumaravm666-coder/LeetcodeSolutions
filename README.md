@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/1480-running-sum-of-1d-array) |
 | [1550-three-consecutive-odds](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/1550-three-consecutive-odds) |
 | [1732-find-the-highest-altitude](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/1732-find-the-highest-altitude) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1920-build-array-from-permutation](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/1920-build-array-from-permutation) |
 ## Two Pointers
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/1768-merge-strings-alternately) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Enumeration
 |  |
 | ------- |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Counting
 |  |
 | ------- |
