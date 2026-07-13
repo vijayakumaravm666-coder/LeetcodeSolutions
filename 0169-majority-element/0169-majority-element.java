@@ -1,11 +1,17 @@
-import java.util.*;
 class Solution {
     public int majorityElement(int[] nums) {
-        Arrays.sort(nums);
-        int n=nums.length;
-        return nums[n/2];
-
-
-        
+        HashMap<Integer,Integer> map=new HashMap<>();
+        for(int i=0;i<nums.length;i++){
+            map.put(nums[i],map.getOrDefault(nums[i],0)+1);
+        }
+        int max=0;
+        int fre=0;
+        for(int i=0;i<nums.length;i++){
+            if(map.get(nums[i])>fre){
+                fre=map.get(nums[i]);
+                max=nums[i];
+            }
+        }
+        return max;
     }
 }
