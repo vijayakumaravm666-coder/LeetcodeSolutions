@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0706-design-hashmap) |
 | [0977-squares-of-a-sorted-array](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/1480-running-sum-of-1d-array) |
 | [1550-three-consecutive-odds](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/1550-three-consecutive-odds) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1004-max-consecutive-ones-iii](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Counting
 |  |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/1732-find-the-highest-altitude) |
 ## String Matching
@@ -201,4 +204,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
