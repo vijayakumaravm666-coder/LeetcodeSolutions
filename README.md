@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0043-multiply-strings](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0058-length-of-last-word) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0169-majority-element) |
@@ -195,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0705-design-hashset](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0706-design-hashmap) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
