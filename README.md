@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0561-array-partition) |
 | [0705-design-hashset](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0706-design-hashmap) |
+| [0904-fruit-into-baskets](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0383-ransom-note) |
 | [0705-design-hashset](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0706-design-hashmap) |
+| [0904-fruit-into-baskets](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0904-fruit-into-baskets) |
 ## Sorting
 |  |
 | ------- |
@@ -204,5 +206,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/vijayakumaravm666-coder/LeetcodeSolutions/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
